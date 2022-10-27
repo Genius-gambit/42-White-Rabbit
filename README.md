@@ -8,7 +8,8 @@ Working with APIs for improving user interfaces for 42 intra
   2. If students are low on blackhole days, we can allocate three attempts in order to pass the project.
   3. 
 
-#### FOR PC:
+#### FOR PC :
+Make slot booking easier with mobile. its not easy to drag and set slot when the website is opened in mobile
 
 #### FOR Android:
   1. Have a feature of stretching the display for the Holy Graph in order to zoom in instead of tapping the screen twice.
