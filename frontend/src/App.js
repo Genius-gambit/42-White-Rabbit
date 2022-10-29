@@ -1,20 +1,8 @@
-import {
-  Routes,
-  Route,
-  BrowserRouter as Router,
-  useLocation,
-} from "react-router-dom";
-import Home from "./pages/Home";
-import Login from "./pages/Login";
+import logo from "./logo.svg";
+import "./App.css";
 
-const App = () => {
-  return (
-    <Router>
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/login" element={<Login />} />
-      </Routes>
-    </Router>
-  );
-};
+function App() {
+  return <div className="App"></div>;
+}
+
 export default App;
