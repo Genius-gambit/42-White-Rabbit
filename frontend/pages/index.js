@@ -1,7 +1,8 @@
 import Image from "next/image";
 import styled from "styled-components";
 import Logo from "./Logo.png";
-import { signIn, signOut } from "next-auth/react";
+import { signIn, signOut, useSession } from "next-auth/react";
+import { useRouter } from "next/router";
 
 const Container = styled.div`
   width: 100vw;
@@ -65,11 +66,6 @@ const ImageContainer = styled.div`
 `;
 
 export default function Home() {
-
-  
-
-
-
   return (
     <Container>
       <Wrapper>
