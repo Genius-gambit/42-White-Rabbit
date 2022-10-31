@@ -20,6 +20,13 @@ The name “White Rabbit” is inspired by a character in Lewis Caroll’s “Al
 
 ![White Rabbit (1)_page-0001](https://user-images.githubusercontent.com/5180172/198871603-af98183d-0c45-462f-af70-0071a96709f1.jpg)
 
+## Achievement
+
+### :star:	Won 2nd place in the 0x2A 42 Abu Dhabi Hackathon.
+
+![achievement](https://user-images.githubusercontent.com/81755254/199002336-64cb0b3c-ca15-45ee-a71d-dc2b596b943e.png)   ![ADEC](https://user-images.githubusercontent.com/81755254/199003333-a4abc7b7-7c08-4ff5-abce-cbe8cb683084.png)
+
+
 ## Contributors
   1. [Muazzam Akhtar](https://github.com/Genius-gambit) (makhtar)
   2. [Imran Mustafa](https://github.com/imrangm) (imustafa)
