@@ -33,3 +33,4 @@ The name “White Rabbit” is inspired by a character in Lewis Caroll’s “Al
   3. [Abdul Samad](https://github.com/sampv0166) (apila-va)
   4. [Ameer Nasr](https://github.com/ann1738) (anasr)
   5. [Alia Alsuwai](https://github.com/alia1738) (aalsuwai)
+  6. [Shatha](https://github.com/shatha-jad) (sjadalla)
